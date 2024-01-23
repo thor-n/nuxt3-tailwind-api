@@ -1,0 +1,1 @@
+import{d as e,t,v as n}from"./entry.gmBoO0Oj.js";const o={class:"text-3xl font-bold underline"},_=e({__name:"index",setup(a){return(s,r)=>(t(),n("h1",o," Data fra et open api "))}});export{_ as default};
