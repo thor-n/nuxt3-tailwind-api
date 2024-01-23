@@ -1,75 +1,10 @@
-# Nuxt 3 Minimal Starter
+Nuxt3 + Vue3 + Typescript + Github pages deploy + api fetch data
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
-## Setup
-
-Make sure to install the dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Begin:
+1. npx nuxi@latest init <projectname>
+2. npm install -D tailwindcss postcss autoprefixer (https://tailwindcss.com/docs/guides/nuxtjs#modules)
+3. Make the design of your page
+4. Make the repo on github and https://github.com/lucpotage/nuxt-github-pages (add .nojekyll in public folder)
+5. In your github repo. under setting choose the branch (gh-pages)
+![image](https://github.com/thor-n/nuxt3-tailwind-api/assets/10937777/f119c312-faeb-4ffd-8ab1-53a962cf7ad2)
+6. Done :)
